@@ -39,4 +39,4 @@
  17. Сделать Commit changes (сохранить) изменения на веб интерфейсе.  
 `В строку "Commit new file" добавить "add information" - Нажать "Commit new file"`  
  18. Синхронизировать внешний и локальный репозиторий TXT  
-`git pull`
+`git pull` 
