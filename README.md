@@ -20,8 +20,8 @@
 	cats: 1;  
 	expected salaty: 800$
 ``` 
-Нажать "Esc" и ввести для выхода из редактора   
-	`:wq`  
+ Нажать "Esc" и ввести для выхода из редактора  
+ `:wq`  
 
 8. Отправить изменения на внешний репозиторий.  
  `git add . ; git commit -am 'add information in to new.txt' ;git push`  
@@ -31,14 +31,14 @@
  `vim preferences.txt`  
  Нажать "i" для ввода данных.   
 ```
-film: Lord of the rings;
-series: Friends;
-food: Orange;
-season: Spring;
-country to visit: Ireland
+	film: Lord of the rings;
+	series: Friends;
+	food: Orange;
+	season: Spring;
+	country to visit: Ireland
 ```
-Нажать "Esc" и ввести для выхода из редактора  
-`:wq`   
+ Нажать "Esc" и ввести для выхода из редактора  
+ `:wq`   
 
 11. Создать файл skills.txt добавить информацию о скиллах которые будут изучены на курсе в формате TXT  
  `vim skills.txt`  
@@ -51,8 +51,8 @@ country to visit: Ireland
 	Skill_5: SQL    
 	Skill_6: Android Studio    
 ```  
-Нажать "Esc" и ввести для выхода из редактора   
-	`:wq`   
+ Нажать "Esc" и ввести для выхода из редактора  
+`:wq`   
 	
 12. Сделать коммит в одну строку.  
  `git add . ; git commit -m 'add information in to the files'  `    
