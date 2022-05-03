@@ -36,25 +36,51 @@
 `:wq` 
  11. Создать файл skills.txt добавить информацию о скиллах которые будут изучены на курсе в формате TXT  
  `vim skills.txt`  
- Нажать "i" для ввода данных.  
-`Skill_1: QA Testing `  
-`Skill_2: Terminal `  
-`Skill_3: Postman  `  
-`Skill_4: Jmeter  `  
-`Skill_5: SQL  `  
-`Skill_6: Android Studio  `  
+ Нажать "i" для ввода данных. 
+ ``` 
+	Skill_1: QA Testing   
+	Skill_2: Terminal   
+	Skill_3: Postman    
+	Skill_4: Jmeter   
+	Skill_5: SQL    
+	Skill_6: Android Studio    
+```
 Нажать "Esc" и ввести для выхода из редактора   
-	`:wq`  
- 12. Сделать коммит в одну строку.  
- `git add . ; git commit -m 'add information in to the files'  `  
+	`:wq`   
+	
+12. Сделать коммит в одну строку.  
+ `git add . ; git commit -m 'add information in to the files'  `    
+ 
  13. Отправить сразу 2 файла на внешний репозиторий.  
  `git push`
  14. На веб интерфейсе создать файл bug_report.txt.  
  `File - Cteate New File - bug_report.txt`
+ 
  15. Сделать Commit changes (сохранить) изменения на веб интерфейсе.  
 `В строку "Commit new file" добавить "Cteate New File - bug_report.txt" - Нажать "Commit new file"`
  16. На веб интерфейсе модифицировать файл bug_report.txt, добавить баг репорт в формате TXT.  
-`Edit this file - внести информацию в файл`  
+`Edit this file - внести информацию в файл`
+
+В формате TXT:  
+
+`Description: Не работает кнопка отправки заказа.`
+
+`Steps to reproduce:`
+
+`1.Открыть сайт *.`
+
+`2. Нажать по ссылке *.`
+
+`3. Пролистать до поля *.`
+
+`4. Ввести значение в поле *.`
+
+`5. Попытаться нажать кнопку отправки заказа.`
+
+`ar: кнопка неактивна.`
+
+`er: кнопка нажимается можно сделать заказ.`
+
  17. Сделать Commit changes (сохранить) изменения на веб интерфейсе.  
 `В строку "Commit new file" добавить "add information" - Нажать "Commit new file"`  
  18. Синхронизировать внешний и локальный репозиторий TXT  
