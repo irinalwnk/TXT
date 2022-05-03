@@ -12,7 +12,7 @@
  6. Отправить файл на внешний GitHub репозиторий.  
  `git push`  
  7. Отредактировать содержание файла “new.txt” - написать информацию о себе (ФИО, возраст, количество домашних животных, будущая желаемая зарплата). Всё написать в формате TXT.  
- `vim new.txt`  
+ `vim new.txt`   
  Нажать "i" для ввода данных. 
 
  	`name: Leshenko Irina;`   
@@ -26,13 +26,13 @@
  9. Создать файл preferences.txt  
  `touch preferences.txt`
  10. В файл preferences.txt” добавить информацию о своих предпочтениях (Любимый фильм, любимый сериал, любимая еда, любимое время года, сторона которую хотели бы посетить) в формате TXT.  
- `vim preferences.txt`
+ `vim preferences.txt`  
  Нажать "i" для ввода данных.   
  `film: Lord of the rings;`  
 `series: Friends;`  
 `food: Orange;`  
 `season: Spring;`  
-`country to visit: Ireland`
+`country to visit: Ireland`  
 Нажать "Esc" и ввести для выхода из редактора  
 `:wq` 
  11. Создать файл sklls.txt добавить информацию о скиллах которые будут изучены на курсе в формате TXT  
