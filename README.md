@@ -3,7 +3,7 @@
   `Github - Repositories - New - Repository name: TXT - поставить галочку у Add Readme file - Cteate repository`  
  2. Клонировать репозиторий TXT на локальный компьютер.  
  `git clone https://github.com/irinalwnk/TXT.git`  
- 1. Внутри локального TXT создать файл “new.txt”.  
+ 1. Внутри локального TXT создать файл “new.txt”.    
  `touch new.txt`  
  4. Добавить файл под гит.  
  `touch new.txt`  
@@ -22,7 +22,6 @@
 ``` 
  Нажать "Esc" и ввести для выхода из редактора  
  `:wq`  
-
 8. Отправить изменения на внешний репозиторий.  
  `git add . ; git commit -am 'add information in to new.txt' ;git push`  
  9. Создать файл preferences.txt  
@@ -39,7 +38,6 @@
 ```
  Нажать "Esc" и ввести для выхода из редактора  
  `:wq`   
-
 11. Создать файл skills.txt добавить информацию о скиллах которые будут изучены на курсе в формате TXT  
  `vim skills.txt`  
  Нажать "i" для ввода данных. 
