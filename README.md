@@ -1,4 +1,4 @@
-# TXT
+# TXT  
  1. Создать внешний репозиторий c названием TXT.  
   `Github - Repositories - New - Repository name: TXT - поставить галочку у Add Readme file - Cteate repository`  
  2. Клонировать репозиторий TXT на локальный компьютер.  
